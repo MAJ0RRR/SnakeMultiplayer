@@ -1,5 +1,5 @@
 # Multiplayer-Snake Programowanie-Rozproszone
-Projekt na zaliczenie przedmiotu 'Programowanie Rozproszone' opracowany w 2-osobowym zespole.
+Projekt na zaliczenie przedmiotu 'Programowanie Rozproszone', który został opracowany w 2-osobowym zespole.
 
 W projekcie korzystamy z języka C, w którym napisany jest server oraz Pythona, który jest odpowiedzialny za stronę klienta.
 Projekt jest swego rodzaju klonem gry przeglądarkowej 'Achtung, Die Kurve!', w której każdy gracz wciela się w węża, którego celem jest jak najdłuższe utrzmanie
